@@ -1,0 +1,14 @@
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\RingCentral.Net.dll
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\suraj\Desktop\RingCENTRAL pRACTICE\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
